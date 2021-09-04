@@ -1,3 +1,4 @@
 # Circular_Buffer
+All done in linear time
 
-it appends an item to a list/table/whatever and removes the last item in linear time with the add() function
+Appends an item to a list and removes the last item instantly
